@@ -1,0 +1,53 @@
+Neomi Mayer 328772801
+
+-------------------------------------------------1a,b
+
+>>> ================================ RESTART ================================
+>>> 
+line one:4
+line two:2
+line three:3
+they are correct triangle side lengths
+>>> ================================ RESTART ================================
+>>> 
+line one:20
+line two:3
+line three:2
+they are in error
+
+-------------------------------------------2-------------------
+
+
+Please select a shape (press 0 to quit):
+1 Rectangle
+2 Circle
+3 Square
+4 Sphere
+5 Cone
+6 Square Pyramid
+> 4
+Please enter the radius: 3
+The area is 113.09733552923255
+
+
+> 5
+Please enter the radius: 2.5
+Please enter the height: 4.7
+The area is 61.445881837653594
+
+
+> 6
+Please enter the height: 5.2
+Please enter the length: 2
+The area is 25.181123671797963
+
+
+-----------------------------------------------3a
+
+enter four numbers: 
+
+first: 40
+second: 35
+third: 20
+fourth: 100
+35   40 
